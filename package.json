@@ -1,0 +1,41 @@
+{
+  "name": "loopback-acl-route",
+  "version": "1.0.0",
+  "description": "LoopBack route based ACL",
+  "homepage": "http://loopback.io",
+  "main": "index.js",
+  "keywords": [
+    "loopback",
+    "auth",
+    "security",
+    "acl"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "debug": "^2.2.0",
+    "loopback": "^2.21.0",
+    "loopback-datasource-juggler": "^2.36.0",
+    "methods": "^1.1.1",
+    "path-to-regexp": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4",
+    "supertest": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/loopback-acl-route"
+  },
+  "license": {
+    "name": "Dual MIT/StrongLoop",
+    "url": "https://github.com/strongloop/loopback-acl-route/blob/master/LICENSE"
+  },
+  "optionalDependencies": {
+    "sl-blip": "http://blip.strongloop.com/loopback-acl-route@1.0.0"
+  }
+}
