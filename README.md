@@ -1,2 +1,5 @@
 # loopback-acl-route
-LoopBack route based ACL
+
+HTTP route based ACLs for LoopBack
+
+
