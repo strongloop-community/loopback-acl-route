@@ -31,10 +31,7 @@
     "type": "git",
     "url": "https://github.com/strongloop/loopback-acl-route"
   },
-  "license": {
-    "name": "Dual MIT/StrongLoop",
-    "url": "https://github.com/strongloop/loopback-acl-route/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "optionalDependencies": {
     "sl-blip": "http://blip.strongloop.com/loopback-acl-route@1.0.0"
   }
