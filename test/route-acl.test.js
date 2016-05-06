@@ -1,3 +1,8 @@
+// Copyright IBM Corp. 2015. All Rights Reserved.
+// Node module: loopback-acl-route
+// This file is licensed under the MIT License.
+// License text available at https://opensource.org/licenses/MIT
+
 var expect = require('chai').expect;
 var routeAcl = require('../server/middleware/acl');
 var loopback = require('loopback');
